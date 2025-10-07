@@ -28,6 +28,6 @@ Et finalement un switch
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/9.png)   
 *ATTENTION GROS PROBLÈMES!! NOUS ALLONS DONC CODER EN PYTHON POUR FAIRE CETTE MANOEUVRE*      
 Aller dans EDIT -> PREFERENCES -> DATS -> LE PTIT DOSSIER:   
-![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/10.png) 
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/10.png)   
 Aller chercher l'opérateur NULL_INPUT   
 `trigger_chop =op("null_input")`   
