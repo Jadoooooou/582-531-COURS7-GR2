@@ -21,4 +21,8 @@ Un MOVIEFILESIN qui va looper
 Un MOVIEFILESIN qui va repartir   
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/6.png)  
 Et finalement un switch
-![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/7.png)  
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/7.png)    
+
+## Lier la touche 1 du clavier   
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/8.png)  
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/9.png)
