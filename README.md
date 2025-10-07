@@ -34,4 +34,16 @@ Aller chercher l'opérateur NULL_INPUT
 Puis:   
 `def onFrameStart(frame):
     trigger = trigger_chop[0][0]
-    return`
+    return`   
+Aller chercher l'opérateur CONSTANT_INDEX   
+`index_op = op("constant_index")`    
+Puis:   
+`def onFrameStart(frame):
+    trigger = trigger_chop[0][0]
+    if trigger == 1:
+    	index_op.par.value0 = 1	
+	return
+`   
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/11.png)   
+Lier dans TouchDesigner   
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/12.png)   
