@@ -20,10 +20,21 @@ void loop() {
 
   // oscslip_bouton
   int maLectureKey = digitalRead( BROCHE_ATOM_FIL_BLANC );
-  monOsc.sendInt("/bouton", maLectureKey);
+
+  // 0 et 1 pour appuyer et relacher
+  Serial.print(maLectureKey);
+  Serial.println();
   delay(100);
 
-  // couleur_pixel
-  keyPixel = CRGB(255,255,0); 
-  FastLED.show();
+  // envoit OSC
+  //monOsc.sendInt("/bouton", maLectureKey);
+  //delay(100);
+
+  if (maLectureKey == 0) {
+    keyPixel = CRGB(255, 255, 0);
+     FastLED.show();
+  } else {
+     keyPixel = CRGB(0, 0, 0);
+     FastLED.show();
+  }
 }
