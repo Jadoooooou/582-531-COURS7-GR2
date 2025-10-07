@@ -26,4 +26,6 @@ Et finalement un switch
 ## Lier la touche 1 du clavier   
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/8.png)  
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/9.png)   
-*ATTENTION GROS PROBLÈMES!! NOUS ALLONS DONC CODER EN PYTHON POUR FAIRE CETTE MANOEUVRE*   
+*ATTENTION GROS PROBLÈMES!! NOUS ALLONS DONC CODER EN PYTHON POUR FAIRE CETTE MANOEUVRE*      
+Aller dans EDIT -> PREFERENCES -> DATS -> LE PTIT DOSSIER:   
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/10.png) 
