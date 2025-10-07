@@ -1,18 +1,29 @@
 #include <Arduino.h>
+#include <FastLED.h>
+#include <MicroOscSlip.h>
+MicroOscSlip<128> monOsc(&Serial);
 
-// put function declarations here:
-int myFunction(int, int);
+// key unit
+#define BROCHE_ATOM_FIL_BLANC 32
+// led in key unit
+#define BROCHE_ATOM_FIL_JAUNE 26
+
+CRGB keyPixel;
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+  pinMode( BROCHE_ATOM_FIL_BLANC , INPUT_PULLUP );
+  Serial.begin(115200);
+  FastLED.addLeds< WS2812, BROCHE_ATOM_FIL_JAUNE , GRB >(&keyPixel, 1); 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+  // oscslip_bouton
+  int maLectureKey = digitalRead( BROCHE_ATOM_FIL_BLANC );
+  monOsc.sendInt("/bouton", maLectureKey);
+  delay(100);
+
+  // couleur_pixel
+  keyPixel = CRGB(255,255,0); 
+  FastLED.show();
 }
