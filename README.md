@@ -14,4 +14,9 @@ Rajouter les librairies
 `#include <M5_PbHub.h>   
 M5_PbHub myPbHub;
 `   
-# TOUCHDESIGNER
+# TOUCHDESIGNER   
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/4.png)  
+Un MOVIEFILESIN qui va looper   
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/5.png)  
+Un MOVIEFILESIN qui va repartir   
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/6.png)  
