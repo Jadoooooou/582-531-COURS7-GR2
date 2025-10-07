@@ -20,7 +20,7 @@ Un MOVIEFILESIN qui va looper
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/5.png)  
 Un MOVIEFILESIN qui va repartir   
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/6.png)  
-Et finalement un switch
+Et finalement un switch   
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/7.png)    
 
 ## Lier la touche 1 du clavier   
