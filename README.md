@@ -31,3 +31,7 @@ Aller dans EDIT -> PREFERENCES -> DATS -> LE PTIT DOSSIER:
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/10.png)   
 Aller chercher l'opérateur NULL_INPUT   
 `trigger_chop =op("null_input")`   
+Puis:   
+`def onFrameStart(frame):
+    trigger = trigger_chop[0][0]
+    return`
