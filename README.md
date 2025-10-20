@@ -56,7 +56,7 @@ Lire et envoyer les données du key unit
 ![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/devoir_pd.png)  
 
 Ajouter un OSCin qui écoute le bon port. Connecter au NULL pour qu'il reçoit la valeur (1) à la place du KEYBOARD.   
-![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/devoir_touchdesigner.png)  
+![screenshot1](https://github.com/Jadoooooou/582-531-COURS7-GR2/blob/main/COMPREHENSION_medias/devoir_touch.png)  
 
 
 
